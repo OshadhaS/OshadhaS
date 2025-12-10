@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio Badge"/>
   </a>&nbsp;&nbsp;
   
-  <a href="mailto:[INSERT_YOUR_EMAIL_ADDRESS]">
+  <a href="mailto:oshadha.official.28@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
