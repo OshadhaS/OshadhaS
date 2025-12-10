@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Oshadha!
+# 👋 Hi, I'm Oshadha De Silva!
 
 ### 💻 About Me
 - **Computer Science Student** focusing on Software Development and **Web Technologies** at **NSBM Green University**.
