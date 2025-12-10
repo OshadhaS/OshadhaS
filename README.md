@@ -2,6 +2,7 @@
 
 ### 💻 About Me
 - **Computer Science Student** focusing on Software Development and **Web Technologies** at **NSBM Green University**.
+- **[NEW LINE HERE]** I am the Founder / [Your Role, e.g., CTO] at **Scrybug**, working on [Briefly mention what Scrybug does].
 - I'm passionate about architecting **scalable, efficient, and clean solutions** using modern frameworks.
 - Currently exploring **Full-Stack Development** and building my expertise in **[Specific Area like Cloud/DevOps]**.
 - Open to collaborating on innovative **[Type of Project, e.g., Open Source, Web Applications]**.
