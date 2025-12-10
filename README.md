@@ -32,17 +32,15 @@
 ### 🌐 Let's Connect!
 
 <p align="center"> 
-  <a href="[INSERT_YOUR_LINKEDIN_PROFILE_URL]" target="_blank">
+  <a href="[INSERT_YOUR_LINKEDIN_PROFILE_URL]" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>&nbsp;&nbsp; 
+  </a>&nbsp;&nbsp;
   
-  <a href="[INSERT_YOUR_PORTFOLIO_URL]" target="_blank">
+  <a href="[INSERT_YOUR_PORTFOLIO_URL]" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio Badge"/>
   </a>&nbsp;&nbsp;
   
-  <a href="mailto:oshadha.official.28@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
+
 </p>
 
 ---
