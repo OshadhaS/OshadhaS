@@ -2,7 +2,7 @@
 
   <!-- ⚡ Neon Cyan Big Title Animation (Thicker & Bold Font) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=50&pause=1500&color=00F5FF&center=true&vCenter=true&random=false&width=800&height=90&lines=ISURU+OSHADHA;SOFTWARE+ENGINEER" alt="Isuru Oshadha" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=50&pause=1500&color=00F5FF&center=true&vCenter=true&random=false&width=800&height=90&lines=ISURU+OSHADHA;COMPUTER+SCIENTIST" alt="Isuru Oshadha" />
   </a>
   
   <br/>
@@ -25,9 +25,6 @@
 
 <br/>
 
-
-
-
 <!-- about -->
 <img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
@@ -35,68 +32,13 @@
 
 ### 🪪 &nbsp;Who Am I?
 
-> 🎓 &nbsp;**CS Student** @ NSBM Green University, Sri Lanka 🇱🇰
->
-> 💡 &nbsp;I craft **fast, clean & scalable** web experiences from idea → deployment
->
-> 🚀 &nbsp;Obsessed with writing code that **machines love** and **humans understand**
->
-> 🌱 &nbsp;Currently deep-diving into **Cloud Architecture & System Design**
->
-> 🤝 &nbsp;Actively seeking **Software Engineering Internships**
+
 
 <br/>
-
-### ⚡ &nbsp;Quick Facts
-
-```javascript
-const oshadha = {
-  🎓 university : "NSBM Green University",
-  📚 degree     : "BSc (Hons) Computer Science",
-  🛠️  stack      : ["React", "Node.js", "Python", "Django", "PostgreSQL"],
-  ☁️  exploring  : ["Cloud (AWS)", "System Design", "DevOps"],
-  🎯 goal       : "Build products that make a real difference",
-  💬 ask_me     : ["Web Dev", "Open Source", "Tech in general"],
-  ⚡ fun_fact   : "I ship features faster with lo-fi music 🎵",
-  🌍 based_in   : "Sri Lanka",
-};
-```
 
 <br clear="right"/>
 
 <br/>
-
-### 🎯 &nbsp;What I'm Up To
-
-<table>
-  <tr>
-    <td>🔭</td>
-    <td><strong>Building</strong></td>
-    <td>My Final Year Project using cutting-edge technologies</td>
-  </tr>
-  <tr>
-    <td>🌱</td>
-    <td><strong>Learning</strong></td>
-    <td>Advanced DB optimization, Cloud (AWS) & System Design</td>
-  </tr>
-  <tr>
-    <td>👯</td>
-    <td><strong>Collaborating</strong></td>
-    <td>Open Source projects & innovative Web Applications</td>
-  </tr>
-  <tr>
-    <td>🎯</td>
-    <td><strong>Goal 2025</strong></td>
-    <td>Land a Software Engineering internship & ship 3 real projects</td>
-  </tr>
-  <tr>
-    <td>📫</td>
-    <td><strong>Contact</strong></td>
-    <td><a href="mailto:your.email@example.com">your.email@example.com</a></td>
-  </tr>
-</table>
-
----
 
 ## 🛠️ Tech Stack
 
