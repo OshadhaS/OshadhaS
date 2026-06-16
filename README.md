@@ -140,25 +140,39 @@ const oshadha = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=OshadhaS&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0d1117"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OshadhaS&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=A78BFA&text_color=c9d1d9&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=OshadhaS&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
-
-</div>
+<!-- GitHub Stats Table (Glassmorphism inspired layout) -->
+<table>
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <!-- Overall Stats Card with Custom Neon/Purple Palette matching hero.jpg -->
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OshadhaS&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=39FF14&icon_color=00F5FF&text_color=E0E0E3&bg_color=0d1117" alt="GitHub Stats"/>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <!-- Most Used Languages with Matching Cyan/Pink Neon Accent -->
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OshadhaS&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=FF007F&text_color=E0E0E3&bg_color=0d1117"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OshadhaS&theme=github-compact&hide_border=true&area=true&area_color=7c3aed&color=A78BFA&line=7c3aed&point=ffffff&bg_color=0d1117" alt="Contribution Graph"/>
+<!-- Streak Stats Badge -->
+<img src="https://streak-stats.demolab.com?user=OshadhaS&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00F5FF&fire=FF007F&currStreakLabel=00F5FF&sideLabels=E0E0E3&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" width="100%"/>
+
+<br/><br/>
+
+### 🌌 3D Contribution Canvas
+
+<!-- 3D Realistic Isometric Contribution Graph matching the hero.jpg styling -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-3d-contrib.egorozh.io/api?username=OshadhaS&theme=midnight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-3d-contrib.egorozh.io/api?username=OshadhaS&theme=flat">
+  <img src="https://github-profile-3d-contrib.egorozh.io/api?username=OshadhaS&theme=midnight" alt="GitHub 3D Contribution Graph" width="100%"/>
+</picture>
+
 </div>
 
 ---
-
 ## 🏆 Trophies
 
 <div align="center">
