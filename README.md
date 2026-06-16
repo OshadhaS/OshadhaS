@@ -207,7 +207,7 @@ const oshadha = {
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- Gmail -->
-<a href="oshadha.official.28@gmail.com">
+<a href="mailto:oshadha.official.28@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="55" height="55"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
