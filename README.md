@@ -114,6 +114,52 @@
   </tr>
 </table>
 
+
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="https://linkedin.com/in/oshadha-de-silva" target="_blank" style="text-decoration: none;">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="55" height="55"/>
+      </a>
+    </td>
+    <td align="center" style="border: none; padding-left: 20px;">
+      <a href="mailto:oshadha.official.28@gmail.com" style="text-decoration: none;">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="55" height="55"/>
+      </a>
+    </td>
+    <td align="center" style="border: none; padding-left: 20px;">
+      <a href="https://www.instagram.com/_oshadh.a_/" target="_blank" style="text-decoration: none;">
+        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="55" height="55"/>
+      </a>
+    </td>
+    <td align="center" style="border: none; padding-left: 20px;">
+      <a href="https://wa.me/94703623965" target="_blank" style="text-decoration: none;">
+        <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp" width="55" height="55"/>
+      </a>
+    </td>
+    <td align="center" style="border: none; padding-left: 20px;">
+      <a href="https://github.com/OshadhaS" target="_blank" style="text-decoration: none;">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="55" height="55"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
 </div>
 
 
