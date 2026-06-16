@@ -32,12 +32,14 @@
 
 
 
+
+
+
+
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C6FF,100:0072FF&section=footer" align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C6FF,100:0072FF&section=header"/>
 </p>
-
-
-
 
 
 <br/><br/>
