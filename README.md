@@ -17,9 +17,9 @@
   <!-- 📊 Tech Vibe Minimalist Stats Group - 100% Stable Official Layout -->
   <img src="https://komarev.com/ghpvc/?username=OshadhaS&label=VIEWS&color=00F5FF&style=flat-square" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/badge/FOLLOWERS-OshadhaS-00F5FF?style=flat-square" alt="Followers" />
+  <img src="https://img.shields.io/badge/FOLLOWERS-14-00F5BF?style=flat-square" alt="Followers" />
   &nbsp;
-  <img src="https://img.shields.io/badge/STARS-OshadhaS-00F5FF?style=flat-square" alt="Stars" />
+  <img src="https://img.shields.io/badge/STARS-1-00F5BF?style=flat-square" alt="Stars" />
 
   <br/>
 
@@ -27,8 +27,8 @@
   <img alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 </div>
-
-<br/>
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+<br/><br/>
 
 <div align="center">
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=OshadhaS&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=ff6ec7&icon_color=ff6ec7&text_color=c9d1d9&bg_color=0,1a1a2e,16213e,0f3460"/>
@@ -46,8 +46,6 @@
 </div>
 
 ---
-
-## 🌱 Currently Leveling Up
 
 <div align="center">
 
