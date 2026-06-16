@@ -27,7 +27,25 @@
   <img alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 <div/>
-<br/><br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00F5DF&center=true&vCenter=true&random=false&width=800&height=60&lines=Java;C%23;Python;PHP;JavaScript;HTML5;CSS3;MySQL;" alt="Typing SVG" />
+</a>
+
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cs,python,php,javascript,html,css,mysql" />
+</p>
+
+
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,dotnet,bootstrap,git,github,vscode" />
+</p>
+
+---
+
+
 
 <div align="center">
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=OshadhaS&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=ff6ec7&icon_color=ff6ec7&text_color=c9d1d9&bg_color=0,1a1a2e,16213e,0f3460"/>
