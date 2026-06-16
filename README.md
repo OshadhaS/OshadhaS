@@ -193,8 +193,6 @@ const oshadha = {
 </div>
 
 
-## 🤝 Let's Connect
-
 <div align="center">
   <p>I'm always open to discussing new projects, open-source opportunities, or tech in general!</p>
 </div>
@@ -204,7 +202,7 @@ const oshadha = {
 <div align="center">
 
 <!-- LinkedIn -->
-<a href="https://linkedin.com/in/oshadha-de-silva" target="_blank">
+<a href="[https://linkedin.com/in/oshadha-de-silva](https://www.linkedin.com/in/oshadhadesilva/)" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="55" height="55"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
