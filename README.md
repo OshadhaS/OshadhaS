@@ -195,8 +195,10 @@ const oshadha = {
 
 <details>
 <summary>⚙️ Click to see how to enable the snake animation</summary>
-
+  
 Create `.github/workflows/snake.yml` in your profile repo:
+
+![Snake animation](https://github.com/OshadhaS/OshadhaS/blob/output/github-contribution-grid-snake.svg)
 
 ```yaml
 name: Generate Snake
