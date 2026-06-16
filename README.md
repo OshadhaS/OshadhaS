@@ -42,20 +42,22 @@
 
 <h1></h1>
 
+
 <div align="center">
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=OshadhaS&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=ff6ec7&icon_color=ff6ec7&text_color=c9d1d9&bg_color=0,1a1a2e,16213e,0f3460"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OshadhaS&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=ff6ec7&text_color=c9d1d9&bg_color=0,1a1a2e,16213e,0f3460"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=OshadhaS&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=ff6ec7&icon_color=ff6ec7&text_color=c9d1d9&bg_color=00000000"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OshadhaS&layout=compact&hide_border=true&langs_count=8&title_color=ff6ec7&text_color=c9d1d9&bg_color=00000000"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=OshadhaS&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0,1a1a2e,16213e,0f3460&ring=ff6ec7&fire=ff6ec7&currStreakLabel=ff6ec7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=OshadhaS&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&ring=ff6ec7&fire=ff6ec7&currStreakLabel=ff6ec7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OshadhaS&theme=react-dark&hide_border=true&area=true&area_color=ff6ec7&color=ff6ec7&line=ff6ec7&point=ffffff&bg_color=0d1117" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OshadhaS&theme=react-dark&hide_border=true&area=true&area_color=ff6ec7&color=ff6ec7&line=ff6ec7&point=ffffff&bg_color=00000000" alt="Contribution Graph"/>
 </div>
+
 
 ---
 
