@@ -33,16 +33,15 @@
 </a>
 
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,cs,python,php,javascript,html,css,mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,csharp,python,php,js,ts,html,css,mysql,bash" alt="Programming Languages" />
 </p>
 
 
 
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,dotnet,bootstrap,git,github,vscode" />
+<<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,dotnet,astro,bootstrap,aws,docker,git,github,vscode" alt="Software & Tools" />
 </p>
-
 ---
 
 
