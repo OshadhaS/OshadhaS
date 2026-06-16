@@ -2,7 +2,7 @@
 
   <!-- ⚡ Neon Cyan Big Title Animation (Thicker & Bold Font) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=50&pause=1500&color=00F5FF&center=true&vCenter=true&random=false&width=800&height=90&lines=ISURU+OSHADHA;COMPUTER+SCIENTIST" alt="Isuru Oshadha" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=50&pause=1500&color=00F5FF&center=true&vCenter=true&random=false&width=800&height=90&lines=ISURU+OSHADHA;COMPUTER+SCIENTIST" alt="Isuru Oshadha" />
   </a>
   
   <br/>
@@ -23,7 +23,7 @@
 <h1></h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00F5BF&center=true&vCenter=true&random=false&width=800&height=60&lines=Java;C%23;Python;PHP;JavaScript;TypeScript;HTML5;CSS3;MySQL;Bash" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00F5DF&center=true&vCenter=true&random=false&width=800&height=60&lines=Java;C%23;Python;PHP;JavaScript;TypeScript;HTML5;CSS3;MySQL;Bash" alt="Typing SVG" />
 </a>
 
 
@@ -33,7 +33,7 @@
 
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00F5BF&center=true&vCenter=true&random=false&width=800&height=60&lines=React;Node.js;Laravel;.NET;Astro;Bootstrap;AWS;Docker;Git;GitHub;VS+Code;Visual+Studio" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00F5DF&center=true&vCenter=true&random=false&width=800&height=60&lines=React;Node.js;Laravel;.NET;Astro;Bootstrap;AWS;Docker;Git;GitHub;VS+Code;Visual+Studio" alt="Typing SVG" />
 </a>
 
 <p align="center">
