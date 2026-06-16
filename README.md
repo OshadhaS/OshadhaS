@@ -185,14 +185,13 @@ const oshadha = {
 
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OshadhaS/OshadhaS/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OshadhaS/OshadhaS/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/OshadhaS/OshadhaS/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OshadhaS/OshadhaS/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OshadhaS/OshadhaS/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/OshadhaS/OshadhaS/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
-![Snake animation](https://github.com/OshadhaS/OshadhaS/blob/output/github-contribution-grid-snake.svg)
 
 ## 🤝 Let's Connect
 
