@@ -20,6 +20,27 @@
 
 <div/>
 
+
+
+
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OshadhaS/OshadhaS/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OshadhaS/OshadhaS/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/OshadhaS/OshadhaS/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+
+
+
+
+
+
+
+
+
 <h1></h1>
 
 <a href="https://git.io/typing-svg">
@@ -71,17 +92,6 @@
 | 🌐 | **Open Source** — Contributing & Building | `█████░░░░░` 50% |
 | 🤖 | **AI/ML Integration** — Applied Projects | `████░░░░░░` 40% |
 
-</div>
-
----
-
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OshadhaS/OshadhaS/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OshadhaS/OshadhaS/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/OshadhaS/OshadhaS/output/github-contribution-grid-snake.svg">
-</picture>
 </div>
 
 
