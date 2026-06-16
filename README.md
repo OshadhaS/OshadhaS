@@ -192,7 +192,7 @@ const oshadha = {
   </picture>
 </div>
 
-<details>
+
 
   
 Create `.github/workflows/snake.yml` in your profile repo:
