@@ -26,22 +26,13 @@
   <!-- 💻 Centered Coding GIF -->
   <img alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-</div>
-
-
-
-
-
-
-
-
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C6FF,100:0072FF&section=footer" align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C6FF,100:0072FF&section=header"/>
 </p>
 
-
+<div/>
 <br/><br/>
 
 <div align="center">
