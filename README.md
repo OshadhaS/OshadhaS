@@ -1,14 +1,21 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Isuru%20Oshadha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20CS%20Student%20%40%20NSBM&descAlignY=55&descSize=18" />
+  <!-- ⚡ Neon Cyan Big Title Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1500&color=00F5FF&center=true&vCenter=true&random=false&width=800&height=100&lines=ISURU+OSHADHA;SOFTWARE+ENGINEER" alt="Isuru Oshadha" />
+  </a>
+  
+  <br/>
+  
+  <!-- 💻 Customized Light Gray Sub-Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C9D1D9&center=true&vCenter=true&random=false&width=800&height=60&lines=Full-Stack+Developer+%F0%9F%9A%80;Web+%26+Mobile+Technologies+%F0%9F%93%B1;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+  </a>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&height=50&lines=Computer+Science+Student+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%B1;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
-</a>
+</div>
 
-<br/>
+
+
 
 <!-- Profile Views Badge -->
 <img src="https://komarev.com/ghpvc/?username=OshadhaS&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views" />
