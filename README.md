@@ -47,8 +47,172 @@ const oshadha = {
   📚 degree     : "BSc (Hons) Computer Science",
   🛠️  stack      : ["React", "Node.js", "Python", "Django", "PostgreSQL"],
   ☁️  exploring  : ["Cloud (AWS)", "System Design", "DevOps"],
-  🎯 goal        : "Build products that make a real difference",
+  🎯 goal       : "Build products that make a real difference",
   💬 ask_me     : ["Web Dev", "Open Source", "Tech in general"],
-  ⚡ fun_fact    : "I ship features faster with lo-fi music 🎵",
-  🌍 based_in    : "Sri Lanka",
+  ⚡ fun_fact   : "I ship features faster with lo-fi music 🎵",
+  🌍 based_in   : "Sri Lanka",
 };
+```
+
+<br clear="right"/>
+
+<br/>
+
+### 🎯 &nbsp;What I'm Up To
+
+<table>
+  <tr>
+    <td>🔭</td>
+    <td><strong>Building</strong></td>
+    <td>My Final Year Project using cutting-edge technologies</td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td><strong>Learning</strong></td>
+    <td>Advanced DB optimization, Cloud (AWS) & System Design</td>
+  </tr>
+  <tr>
+    <td>👯</td>
+    <td><strong>Collaborating</strong></td>
+    <td>Open Source projects & innovative Web Applications</td>
+  </tr>
+  <tr>
+    <td>🎯</td>
+    <td><strong>Goal 2025</strong></td>
+    <td>Land a Software Engineering internship & ship 3 real projects</td>
+  </tr>
+  <tr>
+    <td>📫</td>
+    <td><strong>Contact</strong></td>
+    <td><a href="mailto:your.email@example.com">your.email@example.com</a></td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**› Languages**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=007ACC&labelColor=0d1117)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=0d1117)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=0d1117)
+
+**› Frontend**
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1117)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&labelColor=0d1117)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0d1117)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0d1117)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=0d1117)
+
+**› Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=0d1117)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=white&labelColor=0d1117)
+![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20&labelColor=0d1117)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=0d1117)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=316192&labelColor=0d1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=4EA94B&labelColor=0d1117)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00758F&labelColor=0d1117)
+
+**› DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0d1117)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=0d1117)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=0d1117)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0d1117)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0d1117)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0d1117)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=0d1117)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=OshadhaS&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OshadhaS&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=A78BFA&text_color=c9d1d9&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=OshadhaS&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OshadhaS&theme=github-compact&hide_border=true&area=true&area_color=7c3aed&color=A78BFA&line=7c3aed&point=ffffff&bg_color=0d1117" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OshadhaS&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🌱 Currently Leveling Up
+
+<div align="center">
+
+| &nbsp; | Focus | Progress |
+|--------|-------|----------|
+| ☁️ | **Cloud Computing** — AWS Certification Path | `████████░░` 80% |
+| 🏗️ | **System Design** — Scalable Architecture | `██████░░░░` 60% |
+| 🗄️ | **Advanced SQL** — Query Optimization | `████████░░` 80% |
+| 🌐 | **Open Source** — Contributing & Building | `█████░░░░░` 50% |
+| 🤖 | **AI/ML Integration** — Applied Projects | `████░░░░░░` 40% |
+
+</div>
+
+---
+
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OshadhaS/OshadhaS/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OshadhaS/OshadhaS/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/OshadhaS/OshadhaS/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0d1117)](https://linkedin.com/in/YOUR_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=A78BFA&labelColor=0d1117)](https://YOUR_PORTFOLIO_URL)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0d1117)](mailto:YOUR_EMAIL)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=7289DA&labelColor=0d1117)](https://discord.com/users/YOUR_ID)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*✨ "The best way to predict the future is to build it." ✨*
+
+**Thanks for visiting — drop a ⭐ if you like what you see!**
+
+</div>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
