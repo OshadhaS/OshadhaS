@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Oshadha%20Senanayake&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20CS%20Student%20%40%20NSBM&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Isuru%20Oshadha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20CS%20Student%20%40%20NSBM&descAlignY=55&descSize=18" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -139,47 +139,35 @@ const oshadha = {
 ## 📊 GitHub Stats
 
 <div align="center">
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=OshadhaS&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=ff6ec7&icon_color=ff6ec7&text_color=c9d1d9&bg_color=0,1a1a2e,16213e,0f3460"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OshadhaS&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=ff6ec7&text_color=c9d1d9&bg_color=0,1a1a2e,16213e,0f3460"/>
+</div>
 
-<!-- GitHub Stats Table (Glassmorphism inspired layout) -->
-<table>
-  <tr>
-    <td width="50%" align="center" style="border: none;">
-      <!-- Overall Stats Card with Custom Neon/Purple Palette matching hero.jpg -->
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OshadhaS&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=39FF14&icon_color=00F5FF&text_color=E0E0E3&bg_color=0d1117" alt="GitHub Stats"/>
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <!-- Most Used Languages with Matching Cyan/Pink Neon Accent -->
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OshadhaS&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=FF007F&text_color=E0E0E3&bg_color=0d1117"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=OshadhaS&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0,1a1a2e,16213e,0f3460&ring=ff6ec7&fire=ff6ec7&currStreakLabel=ff6ec7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
+</div>
 
 <br/>
 
-<!-- Streak Stats Badge -->
-<img src="https://streak-stats.demolab.com?user=OshadhaS&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00F5FF&fire=FF007F&currStreakLabel=00F5FF&sideLabels=E0E0E3&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" width="100%"/>
-
-<br/><br/>
-
-### 🌌 3D Contribution Canvas
-
-<!-- 3D Realistic Isometric Contribution Graph matching the hero.jpg styling -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-3d-contrib.egorozh.io/api?username=OshadhaS&theme=midnight">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-3d-contrib.egorozh.io/api?username=OshadhaS&theme=flat">
-  <img src="https://github-profile-3d-contrib.egorozh.io/api?username=OshadhaS&theme=midnight" alt="GitHub 3D Contribution Graph" width="100%"/>
-</picture>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OshadhaS&theme=react-dark&hide_border=true&area=true&area_color=ff6ec7&color=ff6ec7&line=ff6ec7&point=ffffff&bg_color=0d1117" alt="Contribution Graph"/>
 </div>
 
 ---
+
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OshadhaS&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=OshadhaS&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
+
+
 
 ## 🌱 Currently Leveling Up
 
