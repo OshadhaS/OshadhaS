@@ -1,10 +1,3 @@
-<!-- 📊 Profile Views Badge positioned at the Top-Left with a Neon Style -->
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=OshadhaS&label=VISITORS&color=00F5FF&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<br/>
-
 <div align="center">
 
   <!-- ⚡ Neon Cyan Big Title Animation (Thicker & Bold Font) -->
@@ -19,6 +12,15 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00F5DF&center=true&vCenter=true&random=false&width=800&height=60&lines=Full-Stack+Developer;Web+%26+Mobile+Technologies;Always+Learning%2C+Always+Building" alt="Typing SVG" />
   </a>
 
+  <br/><br/>
+
+  <!-- 📊 Tech Vibe Minimalist Stats Group - 100% Stable Official Layout -->
+  <img src="https://komarev.com/ghpvc/?username=OshadhaS&label=VIEWS&color=00F5FF&style=flat-square" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/FOLLOWERS-OshadhaS-00F5FF?style=flat-square" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/STARS-OshadhaS-00F5FF?style=flat-square" alt="Stars" />
+
 </div>
 
 <br/>
@@ -26,8 +28,7 @@
 
 
 
-## 🧑‍💻 About Me
-
+<!-- about -->
 <img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 <br/>
