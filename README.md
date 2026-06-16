@@ -34,7 +34,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,csharp,python,php,js,ts,html,css,mysql,bash" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=java,cs,python,php,js,ts,html,css,mysql,bash" alt="Programming Languages" />
 </p>
 
 
