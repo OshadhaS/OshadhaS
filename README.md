@@ -32,12 +32,9 @@
 
 
 
-<img src="https://readme-typing-svg.demolab.com?lines=────────────────────────────────────────────" width="100%">
-
-
-
-
-
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header"/>
+</p>
 
 
 
