@@ -183,7 +183,6 @@ const oshadha = {
 
 ---
 
-## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -194,7 +193,7 @@ const oshadha = {
 </div>
 
 <details>
-<summary>⚙️ Click to see how to enable the snake animation</summary>
+
   
 Create `.github/workflows/snake.yml` in your profile repo:
 
