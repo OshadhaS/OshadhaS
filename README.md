@@ -196,15 +196,36 @@ const oshadha = {
 ## 🤝 Let's Connect
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0d1117)](https://linkedin.com/in/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=A78BFA&labelColor=0d1117)](https://YOUR_PORTFOLIO_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0d1117)](mailto:YOUR_EMAIL)
-[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=7289DA&labelColor=0d1117)](https://discord.com/users/YOUR_ID)
-
+  <p>I'm always open to discussing new projects, open-source opportunities, or tech in general!</p>
 </div>
 
 <br/>
+
+<div align="center">
+
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/oshadha-de-silva" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuljaim/rahuljaim/main/images/linkedin.png" alt="LinkedIn" width="50" height="50" style="max-width: 100%;"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- Gmail -->
+<a href="mailto:oshadha.official.28@gmail.com">
+  <img src="https://raw.githubusercontent.com/rahuljaim/rahuljaim/main/images/gmail.png" alt="Gmail" width="50" height="50" style="max-width: 100%;"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- Instagram -->
+<a href="https://www.instagram.com/_oshadh.a_/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuljaim/rahuljaim/main/images/instagram.png" alt="Instagram" width="50" height="50" style="max-width: 100%;"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- GitHub / Portfolio -->
+<a href="https://github.com/OshadhaS" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuljaim/rahuljaim/main/images/github.png" alt="GitHub" width="50" height="50" style="max-width: 100%;"/>
+</a>
+
+</div>
+
+<br/><br/>
 
 <div align="center">
 
@@ -213,6 +234,8 @@ const oshadha = {
 **Thanks for visiting — drop a ⭐ if you like what you see!**
 
 </div>
+
+<br/>
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
