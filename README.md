@@ -22,19 +22,21 @@
 <div/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00F5DF&center=true&vCenter=true&random=false&width=800&height=60&lines=Java;C%23;Python;PHP;JavaScript;TypeScript;HTML5;CSS3;MySQL;Bash" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00F5BF&center=true&vCenter=true&random=false&width=800&height=60&lines=Java;C%23;Python;PHP;JavaScript;TypeScript;HTML5;CSS3;MySQL;Bash" alt="Typing SVG" />
 </a>
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,python,php,js,ts,html,css,mysql,bash" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=java,cs,python,php,js,ts,html,css,mysql,bash" height="35" alt="Programming Languages" />
 </p>
 
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00F5DF&center=true&vCenter=true&random=false&width=800&height=60&lines=React;Node.js;Laravel;.NET;Astro;Bootstrap;AWS;Docker;Git;GitHub;VS+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00F5BF&center=true&vCenter=true&random=false&width=800&height=60&lines=React;Node.js;Laravel;.NET;Astro;Bootstrap;AWS;Docker;Git;GitHub;VS+Code;Visual+Studio" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,dotnet,astro,bootstrap,aws,docker,git,github,vscode" alt="Software & Tools" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,dotnet,astro,bootstrap,aws,docker,git,github,vscode,visualstudio" height="35" alt="Software & Tools" />
 </p>
 
 <h1></h1>
