@@ -205,22 +205,22 @@ const oshadha = {
 
 <!-- LinkedIn -->
 <a href="https://linkedin.com/in/oshadha-de-silva" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuljaim/rahuljaim/main/images/linkedin.png" alt="LinkedIn" width="50" height="50" style="max-width: 100%;"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="55" height="55"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- Gmail -->
 <a href="mailto:oshadha.official.28@gmail.com">
-  <img src="https://raw.githubusercontent.com/rahuljaim/rahuljaim/main/images/gmail.png" alt="Gmail" width="50" height="50" style="max-width: 100%;"/>
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="55" height="55"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- Instagram -->
 <a href="https://www.instagram.com/_oshadh.a_/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuljaim/rahuljaim/main/images/instagram.png" alt="Instagram" width="50" height="50" style="max-width: 100%;"/>
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="55" height="55"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- GitHub / Portfolio -->
 <a href="https://github.com/OshadhaS" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuljaim/rahuljaim/main/images/github.png" alt="GitHub" width="50" height="50" style="max-width: 100%;"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="55" height="55"/>
 </a>
 
 </div>
