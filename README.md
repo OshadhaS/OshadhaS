@@ -1,30 +1,30 @@
+<!-- 📊 Profile Views Badge positioned at the Top-Left with a Neon Style -->
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=OshadhaS&label=VISITORS&color=00F5FF&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<br/>
+
 <div align="center">
 
-  <!-- ⚡ Neon Cyan Big Title Animation -->
+  <!-- ⚡ Neon Cyan Big Title Animation (Thicker & Bold Font) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1500&color=00F5FF&center=true&vCenter=true&random=false&width=800&height=100&lines=ISURU+OSHADHA;SOFTWARE+ENGINEER" alt="Isuru Oshadha" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=50&pause=1500&color=00F5FF&center=true&vCenter=true&random=false&width=800&height=90&lines=ISURU+OSHADHA;SOFTWARE+ENGINEER" alt="Isuru Oshadha" />
   </a>
   
   <br/>
   
-  <!-- 💻 Customized Light Gray Sub-Typing Animation -->
+  <!-- 💻 Customized Darker Gray Sub-Typing Animation (Same Font Style) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C9D1D9&center=true&vCenter=true&random=false&width=800&height=60&lines=Full-Stack+Developer+%F0%9F%9A%80;Web+%26+Mobile+Technologies+%F0%9F%93%B1;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=8A94A6&center=true&vCenter=true&random=false&width=800&height=60&lines=Full-Stack+Developer;Web+%26+Mobile+Technologies;Always+Learning%2C+Always+Building" alt="Typing SVG" />
   </a>
-
-</div>
-
-
-
-
-<!-- Profile Views Badge -->
-<img src="https://komarev.com/ghpvc/?username=OshadhaS&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views" />
 
 </div>
 
 <br/>
 
----
+
+
 
 ## 🧑‍💻 About Me
 
