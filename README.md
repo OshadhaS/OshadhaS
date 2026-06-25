@@ -61,7 +61,6 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,dotnet,astro,bootstrap,aws,docker,git,github,vscode,visualstudio" height="35" alt="Software & Tools" />
 </p>
 
-<h1></h1>
 
 
 <div align="center">
