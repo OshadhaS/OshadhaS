@@ -5,14 +5,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=50&pause=1500&color=00F5FF&center=true&vCenter=true&random=false&width=800&height=90&lines=ISURU+OSHADHA;COMPUTER+SCIENTIST" alt="Isuru Oshadha" />
   </a>
   
-  <br/>
+
   
   <!-- 💻 Customized Darker Gray Sub-Typing Animation (Same Font Style) -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00F5DF&center=true&vCenter=true&random=false&width=800&height=60&lines=Full-Stack+Developer;Web+%26+Mobile+Technologies;Always+Learning%2C+Always+Building" alt="Typing SVG" />
   </a>
 
-  <br/>
+
 
 
   <!-- 💻 Centered Coding GIF -->
@@ -127,9 +127,6 @@
     </td>
   </tr>
 </table>
-
-
-
 <div align="center">
 
 
@@ -137,15 +134,15 @@
 </div>
 
 
-<br/><br/>
+<br/>
 
-<div align="center">
+<p align="center" font=JetBrains+Mono>
 
-*✨ "The best way to predict the future is to build it." ✨*
+✨ "The best way to predict the future is to build it." ✨
 
 **Thanks for visiting — drop a ⭐ if you like what you see!**
 
-</div>
+</p>
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
